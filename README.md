@@ -57,8 +57,47 @@ My work emphasizes translating raw, complex datasets into actionable business in
 ## 📁 Repository Directory
 
 ```text
-├── 01-SQL-Fundamentals/        # Relational database queries, JOINs, subqueries, and window functions
-├── 02-PowerBI-Dashboards/      # PBIX report files, DAX measure documentation, and screenshots
-├── 03-Data-Engineering-ETL/    # Python scripts for data cleaning and automated ingestion pipelines
-├── 04-Machine-Learning/        # Predictive modeling notebooks and scikit-learn evaluations
-└── README.md                   # Portfolio summary & landing page
+├── 01-SQL/
+│   ├── README.md                 <-- Mini-summary of SQL projects & concepts
+│   ├── fundamentals/
+│   ├── intermediate/
+│   ├── advanced/
+│   └── business-case/
+│
+├── 02-Python-Data-Analysis/
+│   ├── README.md
+│   ├── pandas/
+│   ├── numpy/
+│   ├── visualization/
+│   └── exploratory-analysis/
+│
+├── 03-PowerBI/
+│   ├── README.md
+│   ├── dashboards/
+│   ├── dax/
+│   ├── data-models/
+│   └── screenshots/              <-- Store .png images used for README previews
+│
+├── 04-Data-Engineering/
+│   ├── README.md
+│   ├── etl/
+│   ├── data-cleaning/
+│   ├── database-design/
+│   └── pipelines/
+│
+├── 05-Machine-Learning/
+│   ├── README.md
+│   ├── regression/
+│   ├── classification/
+│   ├── clustering/
+│   └── model-evaluation/
+│
+├── 06-AI-NLP/
+│   ├── README.md
+│   ├── nlp/
+│   ├── llm/
+│   ├── prompt-engineering/
+│   └── ai-business-applications/
+│
+└── 07-Capstone/
+    └── README.md

@@ -57,47 +57,21 @@ My work emphasizes translating raw, complex datasets into actionable business in
 ## 📁 Repository Directory
 
 ```text
-├── 01-SQL/
-│   ├── README.md                 <-- Mini-summary of SQL projects & concepts
-│   ├── fundamentals/
-│   ├── intermediate/
-│   ├── advanced/
-│   └── business-case/
+├── 01-PowerBI/
+│   ├── README.md                 
 │
-├── 02-Python-Data-Analysis/
+├── 02-SQL/
 │   ├── README.md
-│   ├── pandas/
-│   ├── numpy/
-│   ├── visualization/
-│   └── exploratory-analysis/
 │
-├── 03-PowerBI/
+├── 03-Python/
 │   ├── README.md
-│   ├── dashboards/
-│   ├── dax/
-│   ├── data-models/
-│   └── screenshots/              <-- Store .png images used for README previews
 │
-├── 04-Data-Engineering/
+├── 04-Machine-Learning/
 │   ├── README.md
-│   ├── etl/
-│   ├── data-cleaning/
-│   ├── database-design/
-│   └── pipelines/
 │
-├── 05-Machine-Learning/
+├── 05-AI-Engineering/
 │   ├── README.md
-│   ├── regression/
-│   ├── classification/
-│   ├── clustering/
-│   └── model-evaluation/
 │
-├── 06-AI-NLP/
+├── 06-Capstone/
 │   ├── README.md
-│   ├── nlp/
-│   ├── llm/
-│   ├── prompt-engineering/
-│   └── ai-business-applications/
 │
-└── 07-Capstone/
-    └── README.md
